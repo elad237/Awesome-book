@@ -43,9 +43,9 @@ To remove a book from the list:
 
 
 👤 **partner name**
-- GitHub: 
-- Twitter: 
-- LinkedIn: 
+- GitHub: [@githubhandle](https://github.com/francis3400)
+- Twitter:  [@twitterhandle](https://twitter.com/francisBlinkz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-uche/)
 
 ## 🤝 Contributing
 
